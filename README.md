@@ -1,7 +1,4 @@
-# Audio-Feature-Analysis
-This repository contains of analyzing and visualizing key audio features from sound recordings, including MFCC, Spectrogram, and Beat Tracking. It leverages Python libraries to extract and plot these features, providing insights into audio characteristics.
-
-# Audio Feature Analysis Assignment
+# Audio Feature Analysis
 ## Overview
 This repository contains an assignment focused on analyzing and plotting key audio features from sound recordings. The aim is to derive meaningful insights from various audio representations that are essential in fields like speech processing and music analysis.
 
